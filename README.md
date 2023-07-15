@@ -13,7 +13,3 @@
 
 [Prodobot - Front end](https://github.com/zdevm/prodobot9000-front)
 
-### MyCv
-
-[MyCv - Front end](https://github.com/zdevm/mycv-dark)
-
